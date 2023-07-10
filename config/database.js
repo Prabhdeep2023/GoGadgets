@@ -12,7 +12,7 @@ var mysql = require('mysql2');
 // production server
 var config = {
     host: 'ggapp202server.mysql.database.azure.com',
-    user: 'dbsuer',
+    user: 'dbuser',
     password: 'PD87@mysql',
     database: 'astore'
 };
